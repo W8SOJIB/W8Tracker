@@ -1,0 +1,23 @@
+{
+  "name": "Psi",
+  "version": "0.0.1",
+  "description": "Information Gathering Through Link",
+  "main": "index.js",
+  "scripts": {
+    "test" : "echo mic test  1 ",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": {
+   "name" : "W8SOJIB",
+   "url" : "https://github.com/w8sojib"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "app": "^0.1.0",
+    "base64-to-image": "^1.0.2",
+    "body-parser": "^1.19.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  }
+}
