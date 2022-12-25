@@ -103,6 +103,35 @@ Follow https://www.facebook.com/W8Vai for more
  1. For seeing the victims data visit `http://localhost:5000/victims`
 ---
 
+## Setup Cloudflare Port Forwarding 
+Fast Chack Youre Architecture
+
+      ..CMD..
+     $ uname -a
+     
+     $ apt update
+
+     $ pkg install wget -y
+
+     $ pkg install php -y
+
+Cloudflare Arm Download Link..https://github.com/cloudflare/cloudflared/releases
+
+     $ wget...Download Link
+
+     $ ls 
+
+     $ cd file name
+
+     $ chmod +x file name
+
+     $ ls
+
+     Run CMD   
+
+     $./file name tunnel --url localhost: Port 
+
+
 ### Credits
  * [W8SOJIB](https://www.facebook.com/W8Vai) (For His Modify)
 
