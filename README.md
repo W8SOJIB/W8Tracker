@@ -20,7 +20,7 @@
 <center> </center>
 ## How To Setup
 
-<center> <(https://telegra.ph/file/64b3ed23f3de2e8a842fa.jpg)></center>
+https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijn1aRmL6dqhNWxLdlCAFaMD26z0deEgmXx9iQhMgud5sMbzXHnwk3VrS8aTC0brG4oSIiH3EtkDaNo_mog71gri-rRYJ6LQuiaw4Ma2lhBo7eQoTe8dXpR3kQGdQojqRlcfNJvY7adF79l2vNm6XJaGhL5Cy00OVL8OvTHcCYTpUssZrPWIq5DOYr/s739/64b3ed23f3de2e8a842fa.jpg
 
 ## How to use
  [![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/Psi)](https://repl.it/github/Th30neAnd0nly/Psi)
