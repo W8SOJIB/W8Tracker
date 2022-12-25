@@ -20,7 +20,7 @@
 <center> </center>
 ## How To Setup/Configuration
 
-1: Create an account at https://replit.com/https://github.com/W8SOJIB/W8Tracker
+1: Create an account at https://replit.com/github/W8SOJIB/W8Tracker
 
 2. Create a new repl and select node.js as development language.
 
