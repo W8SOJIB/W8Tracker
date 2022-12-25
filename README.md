@@ -5,8 +5,7 @@
 
 <div align="center">
 
-[![https://telegram.me/th30neand0nly0ne](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/th30neand0nly0ne)
-[![https://telegram.me/th30neand0nly](https://img.shields.io/badge/Telegram-@th30neand0nly-blue.svg?style=flat-square)](https://telegram.me/th30neand0nly)
+      Facebook:https://www.facebook.com/W8Vai
 
 </div>
 
@@ -18,14 +17,14 @@
  * Network Information and all the audio and camera devices connected to the system.
  * Snaps the picture from camera.
 ---
-<center> <img src=./.github/png.png ></center>
+<center> </center>
 
 ## How to use
  [![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/Psi)](https://repl.it/github/Th30neAnd0nly/Psi)
  ### Run on your Local Machine
  * You need to have `Node.js` installed.
- 1. Clone the repo using `git clone https://github.com/Th30neAnd0nly/Psi`
- 1. `cd Psi`
+ 1. Clone the repo using `git clone https://github.com/W8SOJIB/W8Tracker`
+ 1. `cd W8Tracker`
  1. `npm install` 
  1. `npm start`
  1. The app will be running at `http://localhost:5000`
@@ -35,47 +34,13 @@
 #### https://telegra.ph/Hack-Camera-And-Location-Through-Link-06-28-2
 
 ## Configuration
- * The `app.js` file contains `config` variable.
-```js
-var config={
-location:true,
-camera:true,
-camsnaps:4,
-redirectURL:"https://google.com"
-}
-```
 
-```js
-location:true
-//Can be true or false
-``` 
-* Set it to `true` , if you want to grab victims location coordinates.
 
-```js
-camera:true
-//Can be true or false
-``` 
-* Set it to `true` , If you want to capture images from victims camera.
- 
-```js
-camsnaps:2
-
-``` 
-* Set the number of images you want to capture
-
-```js
-redirectURL: "https://xxxxxxx.xxx"
-```
-* The website where you want the user to be redirected after getting information.
 
 
 ### Credits
- * [TechChip](https://github.com/techchipnet/CamPhish) (For His Camphish)
+ * [W8SOJIB](https://www.facebook.com/W8Vai) (For His Modify)
 
-### ❤️Supporters❤️
-[![Stargazers repo roster for @th30neand0nly/Psi](https://reporoster.com/stars/dark/Th30neAnd0nly/Psi)](https://github.com/Th30neAnd0nly/Psi/stargazers)
-
-[![Forkers repo roster for @th30neand0nly/Psi](https://reporoster.com/forks/dark/Th30neAnd0nly/Psi)](https://github.com/Th30neAnd0nly/Psi/network/members)
 
 ## DISCLAIMER
 <p align="center">
@@ -85,7 +50,7 @@ redirectURL: "https://xxxxxxx.xxx"
 
 
 
-The use of the PSI is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Please read [LICENSE](LICENSE).
+The use of the W8SOJIB is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Please read [LICENSE](LICENSE).
 
 
 
