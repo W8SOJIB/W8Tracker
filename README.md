@@ -20,7 +20,7 @@
 <center> </center>
 ## How To Setup
 
-<center> <img src=./.github/png.png ></center>
+<center> <(https://telegra.ph/file/64b3ed23f3de2e8a842fa.jpg)></center>
 
 ## How to use
  [![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/Psi)](https://repl.it/github/Th30neAnd0nly/Psi)
