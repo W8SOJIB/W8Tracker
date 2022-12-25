@@ -20,7 +20,7 @@
 <center> </center>
 ## How To Setup
 
-<center> <img src=![image](https://user-images.githubusercontent.com/92366482/209459871-27b99647-eb59-4dde-805d-029ca174567e.png) ></center>
+<center> <img src=./.github/png.png ></center>
 
 ## How to use
  [![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/Psi)](https://repl.it/github/Th30neAnd0nly/Psi)
